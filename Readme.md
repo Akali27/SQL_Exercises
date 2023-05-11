@@ -1,3 +1,3 @@
-## SQL_Exercises 
+## SQL Exercises 
 
-Answer the questions using commands in SQL. 
+Answer the questions in sql_problems.sql using SQL commands. 
